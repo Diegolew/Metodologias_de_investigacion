@@ -1,7 +1,5 @@
-# Diagrama de Ishikawa para IA en Gestión de Riesgos en DeFi
 
-## Efecto principal:
-**Previsión de riesgos en préstamos y financiamiento DeFi usando IA**
+---
 
 ## Categorías principales (espinas):
 
@@ -49,4 +47,8 @@
 
 ---
 
-## Representación visual (textual):
+## Herramientas recomendadas para graficar:
+- **Lucidchart**
+- **Canva**
+- **Microsoft PowerPoint**
+- **Miro**
