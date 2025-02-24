@@ -46,9 +46,3 @@
 - Eventos imprevistos (black swan events).
 
 ---
-
-## Herramientas recomendadas para graficar:
-- **Lucidchart**
-- **Canva**
-- **Microsoft PowerPoint**
-- **Miro**
